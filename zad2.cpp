@@ -7,8 +7,6 @@ void wpisywanie (double **tab);
 void wyswietl (double **tab);
 
 int main (){
-cout << "Autorem programu jest Piotr Cichon" << endl;
-
 double **tab = new double*[19];
 for(int i = 0 ; i < 19 ; i++)
 	tab[i]= new double[5];
