@@ -8,7 +8,6 @@ void losuj(int *tab);
 int policz (int tab[], int a);
 
 int main (){
-cout << "Autorem programu jest Piotr Cichon" << endl;
 
 
 srand(time(NULL));
